@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @pjhamera
-- 👀 I’m interested in python, django and data science 
-- 🌱 I’m currently learning django and data science/machine learning
-- 💞️ I’m looking to collaborate on projects employing python that will help me to develop
-- 📫 How to reach me pjhamera@gmail.com
+### Hi, I'm Pawel Hamera 👋
 
-<!---
-pjhamera/pjhamera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Data Engineer** specializing in cloud-native data platforms,
+large-scale IoT and CRM data processing, and enterprise data architecture in
+**Azure** and **Databricks** environments.
+
+I build scalable ETL/ELT pipelines with Apache Spark, PySpark, Airflow, and the
+Databricks stack, with a strong focus on data quality, governance, reliability,
+and platform scalability. Currently I own enterprise-grade connected-device
+analytics and Salesforce data pipelines in Databricks — including end-to-end
+CRM ingestion solutions built from the ground up.
+
+I work extensively with distributed data systems, governance frameworks, and EU
+Data Act initiatives in high-volume enterprise environments.
+
+#### 🔭 Open source
+- **[databricks-tui](https://github.com/pjhamera/databricks-tui)** — a terminal
+  dashboard for Databricks (compute, jobs, pipelines, warehouses, Unity Catalog,
+  SQL console, costs & lineage), written in Rust. On
+  [crates.io](https://crates.io/crates/databricks-tui) and Homebrew.
+- Contributing to
+  **[Lakeflow community connectors](https://github.com/databrickslabs/lakeflow-community-connectors)**
+  (Databricks Labs) — data-ingestion connectors.
+
+#### 🛠️ Tech
+Databricks · Azure · Apache Spark · PySpark · Airflow · SQL · Python · Rust ·
+distributed systems · data governance
+
+#### 📫 Reach me
+pjhamera@gmail.com
