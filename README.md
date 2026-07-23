@@ -16,8 +16,9 @@ Data Act initiatives in high-volume enterprise environments.
 #### 🔭 Open source
 - **[databricks-tui](https://github.com/pjhamera/databricks-tui)** — a terminal
   dashboard for Databricks (compute, jobs, pipelines, warehouses, Unity Catalog,
-  SQL console, costs & lineage), written in Rust. On
-  [crates.io](https://crates.io/crates/databricks-tui) and Homebrew.
+  SQL console, costs & lineage), written in Rust.
+  [Website](https://pjhamera.github.io/databricks-tui/) ·
+  [crates.io](https://crates.io/crates/databricks-tui) · Homebrew.
 - Contributing to
   **[Lakeflow community connectors](https://github.com/databrickslabs/lakeflow-community-connectors)**
   (Databricks Labs) — data-ingestion connectors.
