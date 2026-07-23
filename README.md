@@ -6,9 +6,9 @@ large-scale IoT and CRM data processing, and enterprise data architecture in
 
 I build scalable ETL/ELT pipelines with Apache Spark, PySpark, Airflow, and the
 Databricks stack, with a strong focus on data quality, governance, reliability,
-and platform scalability. Currently I own enterprise-grade connected-device
-analytics and Salesforce data pipelines in Databricks — including end-to-end
-CRM ingestion solutions built from the ground up.
+and platform scalability. Currently, at **Vaillant**, I own enterprise-grade
+connected-device analytics and Salesforce data pipelines in Databricks —
+including end-to-end CRM ingestion solutions built from the ground up.
 
 I work extensively with distributed data systems, governance frameworks, and EU
 Data Act initiatives in high-volume enterprise environments.
@@ -28,4 +28,5 @@ Databricks · Azure · Apache Spark · PySpark · Airflow · SQL · Python · Ru
 distributed systems · data governance
 
 #### 📫 Reach me
-pjhamera@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/pawel-hamera-99b7161ab/)
+- pjhamera@gmail.com
